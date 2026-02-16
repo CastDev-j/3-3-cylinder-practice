@@ -1,4 +1,3 @@
-import "../global.css";
 import GUI from "lil-gui";
 import * as THREE from "three";
 import { Renderer } from "./lib/renderer";
